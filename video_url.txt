@@ -1,0 +1,5 @@
+Player URL:
+https://justflymetothemoon.github.io/player/?list=https://raw.githubusercontent.com/justflymetothemoon/f5ad9be2c9d2464e/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/justflymetothemoon/f5ad9be2c9d2464e/refs/heads/master/github_master.m3u8
